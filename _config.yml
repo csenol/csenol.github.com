@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://csenol.github.io
+title: Noktalı Virgülsüz
+subtitle: csenol, blogging(çok ender)
+author: Çağdaş Şenol
 simple_search: http://google.com/search
-description:
+description: Blogging on Scala, JVM etc...
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
