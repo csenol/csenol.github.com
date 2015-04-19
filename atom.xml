@@ -4,7 +4,7 @@
   <title><![CDATA[Noktalı Virgülsüz]]></title>
   <link href="http://csenol.github.io/atom.xml" rel="self"/>
   <link href="http://csenol.github.io/"/>
-  <updated>2015-04-19T12:52:21+02:00</updated>
+  <updated>2015-04-19T12:59:11+02:00</updated>
   <id>http://csenol.github.io/</id>
   <author>
     <name><![CDATA[Çağdaş Şenol]]></name>
@@ -12,60 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Yazilimcilar icin Turkiye'den gitme rehberi]]></title>
-    <link href="http://csenol.github.io/blog/2015/04/19/yazilimcilar-icin-turkiyeden-gitme-rehberi/"/>
-    <updated>2015-04-19T10:11:00+02:00</updated>
-    <id>http://csenol.github.io/blog/2015/04/19/yazilimcilar-icin-turkiyeden-gitme-rehberi</id>
-    <content type="html"><![CDATA[<p>TL;DR
-7 Haziran 2015 Genel Secimleri yaklasiyor. 8 Haziran sabahi bir cok kisi yeniden Turkiye&#8217;den gitmek isteyebilir.
-Bu yazida ortalama bir yazilimcinin nasil yurtdisinda is bulabilecegini anlatacagim. Eger 16 yasindan beri programlama yarismalarina katilan bir universite mezunuysaniz ya da bir sekilde &#8216;top coder&#8217; saniz bu yaziyi okumaniza gerek yok. Zaten sizin yurtdisinda olmanizi beklerim.</p>
-
-<p>Ilk once kendimden bahsedeyim. Bilgisayar Bilimleri ile universitenin 2.senesinin sonunda tanismis biriyim. <a href="https://twitter.com/chrisjstephensn">Chris Hoca</a>&#8216;nin kurdugu ve yuruttugu Bilgi CS sayesinde 2 sene gibi bir surede yazilimci oldum. 3 senelik akademi(yuksek lisans0 ve 2 sene sektor tecrubesi sonrasi Berlin&#8217;de bir is bularak calismaya basladim. Ne programlama yarismalarindan hazzederim ne de elle tutulur acik kaynak kodlu projem vardir ya da acik kaynakli herhangi bir projeye katkim vardir. Yani tamamen 9-6 calisan bir yazilimciyim. Yaklasik 1 senelik bir ugras sonucu yurtdisina kapagi attim. Ve buraya gelince gordum ki benim gibi bir cok 9-6 yazilimci da burada. <a href="https://github.com/yekmer">yekmer</a> <a href="https://github.com/ozselgin">anil</a> vs</p>
-
-<p>Bu yazida <a href="http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X">Carking the Coding Interview</a> in ozetini gecmeyecegim. Ya da mulakatlara soyle calisin demeyecegim. Yurtdisinda is aramaya nerden baslamalisiniz/ekslikleriniz neler olabilir bunlardan konusacagim. Mulakatlara calismak icin yuzlerce kaynak var. Benim amacim TR&#8217;deki bir yazilimcinin bu surece nasil &#8216;kickstart&#8217; verebilecegi olacak</p>
-
-<h3>Ulke Secimi</h3>
-
-<p> Is aramaya baslamadan once en onemlisi nereye gitmek istediginize karar vermek olacak. Tum Dunya&#8217;da is aramak yerine belirli bir ulkeye/bolgeye odaklanirsaniz isler sizin icin daha kolay olacaktir. Cunku bolgelerin degisen dinamikleri var. Misal, ABD&#8217;ye yasal yollardan gitmek istiyorsaniz Greencard araliklarindan once basvuruyu halletmeniz lazim. Avrupa&#8217;da ise bu cesit kotalar olmadigindan zaman kisiti yerine belki de gitmek istediginiz ulkede konusulan dili hafif hafif ogrenmeye baslamak daha avantajli olacaktir. Ben her ne kadar ABD ile is gorusmesi yapmis olsam da lisede Almanca ogrenmemin avantajini kullanarak Almanya&#8217;ya odaklanmistim. Almanya ile yaptigim mulakatlar Ingilizce olmus olsa da Almanca bilip konustgumu gorduklerinde pozitif yorumlarda da aldim. Sadece dil ornegi degil burokratik durumlar sebebiyle de ulkelere odaklanmaniz lazim. Misal Avrupa&#8217;da eslerin de calisma izini olurken, Amerika&#8217;da  eslerin kendileri sponsor bulmadigi surece calisma izni olmuyor. Bekar biriyseniz bu tip sorununuz olmayacaktir, ancak dedigim gibi kendi ozelliklerinize en uygun ulkeyi/bolgeyi bulursaniz isler sizin icin daha kolay ve cabuk olacaktir.</p>
-
-<h3>Ingilizce</h3>
-
-<p> Anadilinizin Ingilizce olmadigini varsayarak, eger yurtdisina gitmek istiyorsaniz Ingilizcenizin cok iyi olmasi zaten tartisilmayacak birsey. Peki Ingilizceniz iyi mi ? Bunu nasil bileceksiniz ? Ben duzenli olarak ingilizcemi her daim gelistirmeye calisiyorum. Bunu ilerlememi  takip etmek icin de su iki siteyi kullaniyorum. <a href="http://testyourvocab.com/">Test your vocab</a> ve de <a href="http://vocabulary.ugent.be/">Ghent Univesity</a>. Mulakatlara baslamadan once &#8220;Test your vocab&#8221; da 5000 civari kelimeye gelmeye bakin ya da Ghen&#8217;de en az %30 sinirina gelmeye ugrasin. Konusma pratiginizi ilerletmek icin internette onlarca kaynak/yontem var ya da TR&#8217;de yabanci dil konusulan bir ise girmeye ugrasin[1]. Avrupa ozelinde cok cok iyi bir Ingilizceye gerek yok, Ingilizce konusula bir ulkeye gittiginizde ise zaten 5k kelime kapasitenizi ve de akiciliginizi cok kisa surede ilerleteceksinizdir. Ama dedigim gibi mulakatta en ufak bir cumleyi/kelimeyi kacirmayacak kadar Ingilizce yeterliligi hedeflerseniz iyi olur. Buna ulasmak hic de zor degil. <a href="http://ankisrs.net/">Anki</a></p>
-
-<h3>Is aramak</h3>
-
-<p> Ulkeyi sectiniz ve de yabanci dil mevzusunu hallettiniz. Peki nasil is bulacaksiniz ? Ilk once Is ilani sitelerini kullanabilirsiniz. <a href="http://www.indeed.com">Indeed</a> bu konuda guzel bir is ilanlarini biriktirme sitesidir (local siteleri de var indeed.nl indeed.de gibi). <a href="http://www.craigslist.org/">Craiglist</a> ya da <a href="https://englishjobs.de/">EnlishJobs</a> dan da is bulanlar var. Ancak bunlar yeterli degil. Hep soylenir is bulmada en onemli sey networking dir diye. Bunun icin imkaniniz varsa hedef ulkedeki bir konferansa konusmaci ya da en kotu katilimci olarak gidin. Insanlarla tanisin. Anvak yazilim dunyasinda fiziksel temas zorunlu degil. Bu netowrking i isterseniz Mail listelerinde ya da IRC&#8217;de de yapabilirsiniz. Ilgilendiginiz dilin/frameworkun/teknolijinin listelrini/irc ni takip edin. Aktif olun. Bazi sorulara cevap vermek acik kaynak bir proje yapmaktan cok daha kolaydir. Buralarda biraz reputasyon elde edip bir sure sonra hedef ulkede is aradiginizi belirtebilirsiniz. Buradan is bulamasaniz bile insanlar sizi bir takim kanallara yonlendirecektir. Bu bir Headhunter[2] da olabilir cok local yeni bir startup da olabilir. Kisaca is ilani sitesinde denk gelemeyeceginiz seylere buralardan erisebilirsiniz.</p>
-
-<h3>Gelir Seviyesi/ Maas Beklentisi</h3>
-
-<p> Ulke degistirmek TR icinde sehir degistirmekten farkli. Gideceginiz ulkede ne kadar para harcayazaginizi/kazanaciginizi bilseniz iyi olur. Cunku Avrupa&#8217;da TR nin aksine is mulakatina baslamadan once maas beklentiniz sorulur. Sizi ugrastirmak istemezler. Cogunlukla ilk sorulan soru bu bile olabilir.</p>
-
-<p>Yasam masraflarini(cost of living) karsilastirmak icin cesitli siteler var. <a href="http://www.expatistan.com/cost-of-living">Expastian</a> bunlardan biri. Ben burayi referans almistim. Hemen hemen tuttu, hatta yemeyi evde yememiz sebebiyle yasam masrafimiz daha az bile oldu diyebilirim. Avrupa icin soyleyebilecegim kritik bir nokta TR&#8217;nin aksine oglen yemeyi ve yol parasini cebinizden veriyor olmaniz olacak, ancak unutmayin ki Avrupa&#8217;da yillik izinler cok daha fazla ve de TR&#8217;nin aksine bir sene sonunda hak etmek yerine  dogrudan kazaniyorsunuz. Bu sebeple bunlari ince eliyip sik dokuyun. Misal gittiginiz sehirden TR&#8217;ye cok fazla ucus yoksa ya da pahaliysa her sene bunun icin ekstra para ve zaman ayirmaniz gerekebilir. ABD&#8217;nin orta yerinde bir yere gidiyorsaniz bunu goz onunde bulundurmak iyi olabilir. Esinizin calisma izni olmaycaksa bu da size bir maliyet olacaktir. Ya da cocugunuz varsa gittginiz ulke vatandasi olmasaniz bile size cocuk parasi verebilir ya da vergi avantajlari sunabilir. Ek olarak yurtdisinda maaslar genel olarak yillik ve brut konusulur. Daha once soylediklerimi birlestirerek beklentinizi hesaplayin.</p>
-
-<p>Avrupa&#8217;da ihbar suresinin cok uzun oldugunu da hesaba katin. 6 haftadan 3 aya kadar degisebiliyor. Bu sizin icin avantaj da olabilir dezavantaj da.</p>
-
-<p>Unutmayin ki 9-6 yazilimcisiniz. Sirketin sizi almasindaki en onemli iki etmen mulakttaki basariniz ve de yerel bir yazilimciya kiyasla size birazcik daha az maliyetli olmaniz olacaktir. Bu yuzden yurtdisindaki ilk isinizde maas beklentinizi biraz dusurmeniz isinizi kolaylastirir. Zaten bir kere gittikten sonra LinkedIn hesabiniz susmak bilmeyecektir. O yuzden maas olarak cok tatmin olmamayi ilk seferinde buyuk sorun etmemek iyi olabilir.</p>
-
-<h3>Mulakata Cagrilinca</h3>
-
-<p> Herseyi halettiniz basvurlari yaptiniz mulakata cagrildiniz. Napcaksiniz ? Ilk once yurtdisina gittiginizi unutmayin. Yani bu hem bir mulakat hem bir gezme firsati. Donus biletinizi buna gore ayarlayin. Belki gittiginiz sehirde kalacaksiniz. O yuzden muakttan sonra 2-3 gun kalip sehri biraz gezin isterseniz. Adamlar sizi oraya kadar cagirdilarsa isin olma ihtimali olmama ihtimalinden bana kalirsa biraz daha fazla olabilir. O yuzden gezme firsatini kacirmayin. Hatta bunu sizin biletinizi lan IK ciya soylemek de ayip degil. &#8220;Donus biletimi 2 gun sonraya alir misiniz? Sehri de tanimak istiyorum&#8221; demek benim icim olumlu bir geri donus olmustu. Isi ciddiye aldigimi gostermis.</p>
-
-<p>ABD ye gidiyorsaniz Jetlag a dikkat. Bazi sirket Jetlag sebebiyle, mulakati varisinizdan 2-3 gun sonraya bile ayarlayabilir. Eger ayarlamdilarsa bunu belirtin. &#8220;Jetlag olabilirim erken geleyim&#8221; demekte sorun yok.</p>
-
-<p>Turk yazilimcilar &#8220;relocation package&#8221; kavramina pek alisik degildir ama yurtdisinda bu gayet yaygin. Yani ulke degistirdiginiz icin &#8220;X Kadar tasinma parasi istiyorum&#8221; diye bilirsiniz. Misal Almanya&#8217;daki sirketler bunu vergi hesabinda kullandiklari icin sorun etmeyebiliyorlar. Bunu istemekten cekinmeyin</p>
-
-<p>Mulakata mutlaka defter kalemle gidin ya da skype/telefon ise yaninizda defter kalem olsun. Size sorulan sorulari not edin. Bilemediklerinizi ozellikle not edin. Herseyi not etmeye bakin. Sonuc olumsuz olursa bunlari gozden gecirip calisacaksiniz.</p>
-
-<h3>Mulakattan Sonra</h3>
-
-<p> Mulakattan dondukten sonra 2 hafta icinde donmezlerse mail atip sormanizda sorun yok. IK ne yazik ki kucuk firmalarda oldukca sorunlu. Teklif alip kabul etseniz bile vize/calisma izni isleri cok uzun surebiliyor. Avrupa firmalari bunun farkinda olmayabiliyor. O yuzden ise baslama tarihini 2 ay sonra olarak kontrata yazidrabilirsiniz. Benim neredeyse 3 ay surmustu. ABD icin bu sure cok daha uzun olabilir. Kontrata ilk gidisinizdeki ucak bileti paranizi da yazdirabilirseniz iyi olur. Bunu da sormak negatif bir durum degil.
-Olumsuz olursa uzulmeye gerek yok. Bu surec uzun bir surec. Her mulakat sonrasi neyiniz eksikti bunlari gozden gecirip calisin. Bir sonrakine daha saglam hazirlanin.</p>
-
-<p>[1] Bunun icin gerekirse birazcik dusuk maasa razi olabilirsiniz. Sonuc olarak hedefiniz o sirketten 1 sene icinde ayrilmak olacak.
-[2] Headhunter in artisi da var eksisie. Sizi guzel pazarlayip, gorusmeleriniz sonrasi cok guzel feedback verebilir. Eksi olarak ise ise alinmaniz durumunda firmaya maliyeti olacagindan maas beklentiniz dusebilir.</p>
-]]></content>
-  </entry>
   
 </feed>
