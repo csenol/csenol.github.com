@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://csenol.github.io
-title: Noktalı Virgülsüz
-subtitle: csenol, blogging(çok ender)
-author: Çağdaş Şenol
+title: csenol'un hikayeleri
+subtitle: ya da efrasiyab'in.
+author: csenol
 simple_search: http://google.com/search
-description: Blogging on Scala, JVM etc...
+description: 
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
