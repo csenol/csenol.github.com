@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Noktalı Virgülsüz]]></title>
+  <title><![CDATA[csenol'un hikayeleri]]></title>
   <link href="http://csenol.github.io/atom.xml" rel="self"/>
   <link href="http://csenol.github.io/"/>
-  <updated>2015-04-19T20:01:45+02:00</updated>
+  <updated>2015-04-19T20:10:54+02:00</updated>
   <id>http://csenol.github.io/</id>
   <author>
-    <name><![CDATA[Çağdaş Şenol]]></name>
+    <name><![CDATA[csenol]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
